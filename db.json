@@ -136,7 +136,7 @@
       "id": "4",
       "title": "Scala news",
       "subtitle": "Что нового в JS за 2022 год?",
-      "img": "https://coursefreedl.com/wp-content/uploads/2020/01/Scala-Zero-To-Hero-Complete-Guide.jpg",
+      "img": "https://editorial.pxcrush.net/carsales/general/editorial/skoda-scala-teaser-2.jpg?width=1024&height=682",
       "views": 10222,
       "createdAt": "24.01.2022",
       "userId": "1",
@@ -160,7 +160,7 @@
       "id": "5",
       "title": "Golang news",
       "subtitle": "Что нового в JS за 2022 год?",
-      "img": "https://cdn-front.kwork.ru/pics/t3/88/16350941-1630390388.jpg",
+      "img": "https://www.freecodecamp.org/news/content/images/2021/10/golang.png",
       "views": 10222,
       "createdAt": "26.02.2020",
       "userId": "1",
@@ -280,7 +280,7 @@
       "id": "10",
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
-      "img": "https://zsfond.ru/wp-content/uploads/2021/03/piton-1-1024x578.jpg",
+      "img": "https://img-b.udemycdn.com/course/750x422/919038_3ae1_11.jpg",
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
@@ -606,8 +606,8 @@
   "users": [
     {
       "id": "1",
-      "username": "admin",
-      "password": "123",
+      "username": "hb_programmer",
+      "password": "091574",
       "role": "ADMIN",
       "avatar": "https://media.istockphoto.com/id/1192884194/vector/admin-sign-on-laptop-icon-stock-vector.jpg?s=1024x1024&w=is&k=20&c=eDwHnju52_QLllNy2OCHaccXcUlkvrlkiFe3jYDQ35Q="
     },
@@ -616,7 +616,7 @@
       "username": "user",
       "password": "123",
       "role": "USER",
-      "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png"
     }
   ],
   "profile": [
