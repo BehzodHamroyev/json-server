@@ -4,20 +4,11 @@ const path = require('path');
 const cors=require('cors');
 
 
-var corsOptions = {
-    origin: 'https://hb-blogs.netlify.app/',
-    optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-  }
-
-
-
 const server = jsonServer.create();
+app.use(cors());
 
 const router = jsonServer.router(path.resolve(__dirname, 'db.json'));
 
-server.use(cors({
-    corsOptions:corsOptions
-}))
 server.use(jsonServer.defaults({}));
 server.use(jsonServer.bodyParser);
 
